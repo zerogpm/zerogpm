@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17678
-Fork on GitHub
-5174
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Jian Su (Chris)</h1>
 <h3 align="center">Hello, code tamer and cloud whisperer! Master of DevOps, PHP, and AWS at your service. My GitHub? A tech treasure trove. Let's create digital wonders together!</h3>
 
