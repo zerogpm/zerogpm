@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jiansu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/zerogpm/zerogpm/main/image/linkedin.svg" alt="https://www.linkedin.com/in/jiansu/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCQfG_tthSh466bLN6V75sNw" target="blank"><img align="center" src="https://raw.githubusercontent.com/zerogpm/zerogpm/main/image/youtube.svg" alt="https://www.youtube.com/channel/ucqfg_tthsh466bln6v75snw](https://www.youtube.com/channel/UCQfG_tthSh466bLN6V75sNw)" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerogpm&show_icons=true&locale=en&layout=compact" alt="zerogpm" /></p>
