@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jian Su (Chris)</h1>
-<h3 align="center">Hello, code tamer and cloud whisperer! Master of DevOps, PHP, and AWS at your service. My GitHub? A tech treasure trove. Let's create digital wonders together!</h3>
+<h3 align="center">DevOps Engineer & AWS Solutions Architect with 8+ years building scalable cloud infrastructure. 
+Specialized in Kubernetes, Terraform, and CI/CD automation. Currently developing AI-powered tools 
+for the Kubernetes certification community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zerogpm&label=Profile%20views&color=0e75b6&style=flat" alt="zerogpm" /> </p>
 
