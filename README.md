@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Senior DevOps Engineer &amp; AWS Solutions Architect</strong><br>
   Vancouver, BC, Canada &nbsp;·&nbsp; 8+ years building scalable cloud infrastructure<br>
-  Specialized in Kubernetes, Terraform, and CI/CD automation
+  Specialized in Kubernetes (CKA Certified), Terraform, and CI/CD automation
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ```text
 🏗️  8+ years designing and operating production cloud infrastructure on AWS
-☸️  Deep expertise in Kubernetes — building tools for the CKA certification community
+☸️  CKA Certified — deep expertise in Kubernetes, building tools for the K8s community
 🤖  Currently developing AI-powered tools (AI-Stockpilot)
 🔧  Infrastructure-as-Code advocate — Terraform, Ansible, CI/CD pipelines
 📍  Based in Vancouver, BC, Canada
