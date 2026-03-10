@@ -61,8 +61,8 @@
 ### More Infrastructure Projects
 
 <p>
-  <a href="https://github.com/zerogpm/deploy-lambda-terraform">
-    <img src="https://img.shields.io/badge/Deploy--Lambda--Terraform-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Deploy Lambda Terraform" />
+  <a href="https://github.com/zerogpm/Terraform">
+    <img src="https://img.shields.io/badge/Terraform-AWS%20%7C%20Azure%20%7C%20Docker%20%7C%20Jenkins-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform IaC Collection" />
   </a>
 </p>
 
