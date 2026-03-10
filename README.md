@@ -53,17 +53,14 @@
 | [**AI-Stockpilot**](https://github.com/zerogpm/AI-Stockpilot) | AI-powered stock trading tool with intelligent market analysis | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [**AWS EC2 Secrets Manager RDS Password Rotation**](https://github.com/zerogpm/aws-ec2-secretsmanager-rds-password-rotation) | Automated AWS infrastructure for secure RDS credential rotation | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | [**Kind Cluster Manager**](https://github.com/zerogpm/kind-cluster-manager) | Streamlined Kubernetes cluster management for local development | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| [**CKA Study Notes**](https://github.com/zerogpm/cka-note) | Comprehensive Certified Kubernetes Administrator exam preparation notes | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| [**Finite State Machine**](https://github.com/zerogpm/fsm) | Generic type-safe FSM library with comprehensive validation and configuration-driven design | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| [**AWS ECS Automation**](https://github.com/zerogpm/AWS-ECS-Automation) | Modular Terraform IaC for serverless ECS infrastructure with VPC, ECR, and Fargate | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) |
 
 ---
 
 ### More Infrastructure Projects
 
 <p>
-  <a href="https://github.com/zerogpm/AWS-ECS-Automation">
-    <img src="https://img.shields.io/badge/AWS--ECS--Automation-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="AWS ECS Automation" />
-  </a>
-  &nbsp;
   <a href="https://github.com/zerogpm/deploy-lambda-terraform">
     <img src="https://img.shields.io/badge/Deploy--Lambda--Terraform-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Deploy Lambda Terraform" />
   </a>
